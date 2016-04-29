@@ -1,6 +1,6 @@
 # DoItYourselfieStick
 
-Build your own selfie stick!
+Watch the [Do It Yourselfie Stick Tutorial](https://youtu.be/yzg0KlxHhAU) on YouTube!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yzg0KlxHhAU" frameborder="0" allowfullscreen></iframe>
 
