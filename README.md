@@ -13,3 +13,7 @@ Build your own selfie stick!
 - Tactile Push-button
 - a good Stick
 - basic soldering skills
+
+## Schematics
+![](schematic_bb.png?raw=true)
+![](schematic_schem.png?raw=true)
