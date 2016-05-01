@@ -2,7 +2,7 @@
 
 Watch the [Do It Yourselfie Stick Tutorial](https://youtu.be/yzg0KlxHhAU) on YouTube!
 
-[![](https://c2.staticflickr.com/2/1694/26150297983_ed1afb59c1_o_d.png)](https://www.youtube.com/embed/yzg0KlxHhAU)
+[![](https://c2.staticflickr.com/2/1694/26150297983_3b2cd80e0a_b_d.jpg)](https://www.youtube.com/embed/yzg0KlxHhAU)
 
 ## Requirements
 
