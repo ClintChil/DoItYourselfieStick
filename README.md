@@ -21,3 +21,4 @@ Watch the [Do It Yourselfie Stick Tutorial](https://youtu.be/yzg0KlxHhAU) on You
 ## Reference
 
 - [BeanHid_ Class Reference](https://punchthrough.com/files/bean/arduino-core-docs/1.8.0-beta2/class_bean_hid__.html)
+- [Arduino - Input Pullup Serial](https://www.arduino.cc/en/Tutorial/InputPullupSerial)
