@@ -17,3 +17,7 @@ Watch the [Do It Yourselfie Stick Tutorial](https://youtu.be/yzg0KlxHhAU) on You
 ## Schematics
 ![](schematic_bb.png?raw=true)
 ![](schematic_schem.png?raw=true)
+
+## Reference
+
+- [BeanHid_ Class Reference](https://punchthrough.com/files/bean/arduino-core-docs/1.8.0-beta2/class_bean_hid__.html)
