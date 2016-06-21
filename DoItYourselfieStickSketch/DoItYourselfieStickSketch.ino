@@ -19,7 +19,9 @@ void loop() {
   // pullup inverts the logic
   // HIGH = open, LOW = button pressed
   if (buttonReading == LOW && previousButtonReading == HIGH) {
-    BeanHid.sendMediaControl(VOLUME_UP);
+    BeanHid.holdKey(KEY_LEFT_CTRL);
+    BeanHid.holdKey("P");
+    BeanHid.releaseAllKeys();
   }
 
   previousButtonReading = buttonReading;
